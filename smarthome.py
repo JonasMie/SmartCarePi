@@ -20,7 +20,7 @@ BUTTON0 = 5
 # Button2 belongs to hue ("licht")
 BUTTON1 = 3
 # Button4 belongs to door
-BUTTON4 = 6
+BUTTON4 = 2
 
 devices = ["TV", "Rollershutter", "Philips Hue", "Sonos"]
 
